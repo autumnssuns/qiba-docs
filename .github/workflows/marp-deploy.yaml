@@ -26,21 +26,21 @@ jobs:
       - name: Marp Build (README)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: README.md -o build/index.html --theme ./themes/qut.css
+          args: README.md -o build/index.html --theme ./themes/qiba.css
         env:
           MARP_USER: root:root
 
       - name: Marp Build (README.pdf)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: README.md --allow-local-files -o build/README.pdf --theme ./themes/qut.css
+          args: README.md --allow-local-files -o build/README.pdf --theme ./themes/qiba.css
         env:
           MARP_USER: root:root
 
       - name: Marp Build (README.pptx)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: README.md --allow-local-files -o build/README.pptx --theme ./themes/qut.css
+          args: README.md --allow-local-files -o build/README.pptx --theme ./themes/qiba.css
         env:
           MARP_USER: root:root
 
@@ -74,21 +74,21 @@ jobs:
       - name: Marp Build (${{ matrix.file }}.html)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: ${{ matrix.file }}.md -o build/${{ matrix.file }}.html --theme ./themes/qut.css
+          args: ${{ matrix.file }}.md -o build/${{ matrix.file }}.html --theme ./themes/qiba.css
         env:
           MARP_USER: root:root
 
       - name: Marp Build (${{ matrix.file }}.pdf)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: ${{ matrix.file }}.md --allow-local-files -o build/${{ matrix.file }}.pdf --theme ./themes/qut.css
+          args: ${{ matrix.file }}.md --allow-local-files -o build/${{ matrix.file }}.pdf --theme ./themes/qiba.css
         env:
           MARP_USER: root:root
 
       - name: Marp Build (${{ matrix.file }}.pptx)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: ${{ matrix.file }}.md --allow-local-files -o build/${{ matrix.file }}.pptx --theme ./themes/qut.css
+          args: ${{ matrix.file }}.md --allow-local-files -o build/${{ matrix.file }}.pptx --theme ./themes/qiba.css
         env:
           MARP_USER: root:root
 
