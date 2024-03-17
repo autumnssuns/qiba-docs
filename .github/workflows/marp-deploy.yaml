@@ -26,7 +26,7 @@ jobs:
       - name: Marp Build (README)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: README.md -o build/index.html --theme ./themes/qiba.css
+          args: README.md --html -o build/index.html --theme ./themes/qiba.css
         env:
           MARP_USER: root:root
 
@@ -74,7 +74,7 @@ jobs:
       - name: Marp Build (${{ matrix.file }}.html)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: ${{ matrix.file }}.md -o build/${{ matrix.file }}.html --theme ./themes/qiba.css
+          args: ${{ matrix.file }}.md --html -o build/${{ matrix.file }}.html --theme ./themes/qiba.css
         env:
           MARP_USER: root:root
 
