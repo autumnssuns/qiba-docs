@@ -10,7 +10,7 @@ _class: title
 
 <div style="display: flex; flex-direction: column">
 
-<div style="width: 120%; margin-top: -300px; margin-left: -150px; opacity: 0.45; margin-bottom: -120px; z-index: -1;">
+<div style="width: 120%; margin-top: -300px; margin-left: -150px; opacity: 0.45; margin-bottom: -120px; ">
 
 ![Diversity_Banner](./themes/Images/QUT_Diversity.jpg)
 
