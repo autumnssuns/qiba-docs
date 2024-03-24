@@ -39,8 +39,8 @@ _class: title
 | | **Age Diversity** | **Cultural Diversity** |
 |---|---|---|
 | **Description** | Age groups | Countries of Origin |
-| **Example** | Older staff members working alongside students or younger staff | International and Australian staff / students |
-| **Challenges** | Communication and Technology | Language and Cultural Barriers |
+| **Example** | **Older** staff members working alongside students or **younger** staff | **International** and **Australian** staff / students |
+| **Challenges** | **Communication** and **Technology** | **Language** and **Cultural** Barriers |
 
 **Similarities**: Environment, Goals and Values - Offering and receiving quality education
 
