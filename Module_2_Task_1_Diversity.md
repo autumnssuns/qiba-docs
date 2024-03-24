@@ -12,7 +12,7 @@ _class: title
 
 <div style="width: 120%; margin-top: -300px; margin-left: -150px; opacity: 0.45; margin-bottom: -120px; z-index: -1;">
 
-![Diversity_Banner](/themes/Images/QUT_Diversity.jpg)
+![Diversity_Banner](./themes/Images/QUT_Diversity.jpg)
 
 </div>
 
