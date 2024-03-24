@@ -37,3 +37,42 @@ img {
   /* Fill width */
   width: 100%;
 }
+
+.hover-line p:hover  {
+  background-color: #fedcc0;
+}
+
+.hover-line p {
+  margin: 0;
+}
+
+.hover-line .selected {
+  background-color: #E46C0A;
+  color: white;
+}
+
+.typed-out {
+  color:#0000;
+  background:
+    linear-gradient(-90deg,#E46C0A 5px,#0000 0) 10px 0,
+    linear-gradient(#E46C0A 0 0) 0 0;
+  background-size:calc(var(--n)*1ch) 200%;
+  -webkit-background-clip:padding-box,text;
+  background-repeat:no-repeat;
+  animation: 
+    t calc(var(--n)*.02s) steps(var(--n)) forwards;
+}
+
+@keyframes t{
+  from {background-size:0 200%}
+}
+
+td:hover {
+  background-color: #fedcc0;
+  opacity: 1;
+  cursor: pointer;
+}
+
+.slide-in:hover {
+  cursor: pointer;
+}
