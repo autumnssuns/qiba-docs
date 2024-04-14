@@ -76,3 +76,10 @@ td:hover {
 .slide-in:hover {
   cursor: pointer;
 }
+
+section.title .title-header {
+  backdrop-filter: blur(25px);
+  border-radius: 2rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 1rem;
+}
