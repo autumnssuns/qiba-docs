@@ -14,7 +14,7 @@ _class: title
 
 # SWOT Analysis - An overview
 
-**By:** Dan Tran, Atsuya "Harry" Shimokawa, Bibek Dumre and Xinshun "Frank" Xu
+**By:** *Dan Tran*, *Atsuya "Harry" Shimokawa*, *Bibek Dumre* and *Xinshun "Frank" Xu*
 
 </div>
 
