@@ -24,4 +24,6 @@
 
 ## Module 4: Job Application
 
+[Module 4: Personal SWOT](./Module_4_Personal_SWOT)
+
 [Module 4: Job Application](./Module_4_Job_Application)
