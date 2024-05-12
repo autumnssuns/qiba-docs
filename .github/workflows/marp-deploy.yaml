@@ -55,7 +55,7 @@ jobs:
     needs: [prepare]
     strategy:
       matrix:
-        file: [ Module_1_Slides, Module_2_Bully, Module_2_Task_1_Diversity, Module_3, Module_4_SWOT, Module_4_Personal_SWOT ]
+        file: [ Module_1_Slides, Module_2_Bully, Module_2_Task_1_Diversity, Module_3, Module_4_SWOT, Module_4_Personal_SWOT, Module_4_Job_Application ]
 
     runs-on: ubuntu-latest
     permissions:

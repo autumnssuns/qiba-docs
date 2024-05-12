@@ -90,3 +90,16 @@ Grouped by:
 - Rapidly changing **workforce** and **technologies**.
 - **Competition** from other professionals.
 - Constantly changing **migration laws**.
+
+---
+
+# Action Plan
+
+Selected weaknesses to mitigate:
+
+- Anxiety
+- Setting Boundaries
+- Work-life balance
+
+---
+

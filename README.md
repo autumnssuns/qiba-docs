@@ -13,3 +13,7 @@
 ## Module 3: Reporting to Managers
 
 [Module 3: Feasibility Study](./Module_3)
+
+## Module 4: Job Application
+
+[Module 4: Job Application](./Module_4_Job_Application)
