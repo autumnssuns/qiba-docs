@@ -49,6 +49,7 @@ _class: title
 - Learning new things
 - Sharing knowledge
 - Playing (and sometimes modding) video games
+- Cooking (especially Vietnamese food)
 
 ---
 
@@ -109,6 +110,38 @@ _class: title
 **Family**
 
 ![Icon](https://cdn-icons-png.flaticon.com/128/2342/2342441.png)
+
+</div>
+
+</div>
+
+---
+
+# What can I absolutely not live without
+
+<div class='card-container'>
+
+<div class='card'>
+
+**Food**
+
+![Icon](https://cdn-icons-png.flaticon.com/128/706/706164.png)
+
+</div>
+
+<div class='card'>
+
+**Family**
+
+![Icon](https://cdn-icons-png.flaticon.com/128/2342/2342441.png)
+
+</div>
+
+<div class='card'>
+
+**Motivation**
+
+![Icon](https://cdn-icons-png.flaticon.com/128/3989/3989573.png)
 
 </div>
 
