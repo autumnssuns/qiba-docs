@@ -11,7 +11,9 @@ section.title {
 }
 
 h1 {
-  color: #E46C0A;
+  background: linear-gradient(90deg, #ff0dff 0%, #25efef 75%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 footer {
@@ -19,7 +21,7 @@ footer {
   left: 0px;
   bottom: 0px;
   width: 100%;
-  background: linear-gradient(90deg, #9e3b0a 0%, #E46C0A 50%);
+  background: linear-gradient(90deg, #ff0dff 0%, #25efef 75%);
   color: white;
 }
 
@@ -30,7 +32,7 @@ footer::after {
   left: 1175px;
   width: 80px;
   height: 80px;
-  background-image: url("https://www.qiba.edu.au/wp-content/uploads/2023/06/logo-1-7.png");
+  /* background-image: url("https://www.qiba.edu.au/wp-content/uploads/2023/06/logo-1-7.png"); */
 }
 
 img {
@@ -38,7 +40,7 @@ img {
   width: 100%;
 }
 
-.hover-line p:hover  {
+.hover-line p:hover {
   background-color: #fedcc0;
 }
 
@@ -47,24 +49,24 @@ img {
 }
 
 .hover-line .selected {
-  background-color: #E46C0A;
+  background-color: #e46c0a;
   color: white;
 }
 
 .typed-out {
-  color:#0000;
-  background:
-    linear-gradient(-90deg,#E46C0A 5px,#0000 0) 10px 0,
-    linear-gradient(#E46C0A 0 0) 0 0;
-  background-size:calc(var(--n)*1ch) 200%;
-  -webkit-background-clip:padding-box,text;
-  background-repeat:no-repeat;
-  animation: 
-    t calc(var(--n)*.02s) steps(var(--n)) forwards;
+  color: #0000;
+  background: linear-gradient(-90deg, #e46c0a 5px, #0000 0) 10px 0,
+    linear-gradient(#e46c0a 0 0) 0 0;
+  background-size: calc(var(--n) * 1ch) 200%;
+  -webkit-background-clip: padding-box, text;
+  background-repeat: no-repeat;
+  animation: t calc(var(--n) * 0.02s) steps(var(--n)) forwards;
 }
 
-@keyframes t{
-  from {background-size:0 200%}
+@keyframes t {
+  from {
+    background-size: 0 200%;
+  }
 }
 
 td:hover {
@@ -82,4 +84,42 @@ section.title .title-header {
   border-radius: 2rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   padding: 1rem;
+}
+
+section.title .title-center {
+  margin: 0 auto 50px auto;
+  border-radius: 5px;
+  backdrop-filter: brightness(2);
+  box-shadow: 5px 5px 5px;
+  width: fit-content;
+  padding: 0 100px;
+  text-align: center;
+}
+
+section.title .title-center.text-left {
+  text-align: left;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.card {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  background: linear-gradient(135deg, #ffd4ff 0%, #b7ffff 75%);
+}
+
+.card img {
+  width: 125px;
+  height: 125px;
+  border-radius: 5px;
 }
