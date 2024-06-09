@@ -54,17 +54,65 @@ _class: title
 
 # What I fill my life with
 
-- Fun
-- Learning
-- Work
+<div class='card-container'>
+
+<div class='card'>
+
+**Fun**
+
+![Icon](https://cdn-icons-png.flaticon.com/128/2058/2058208.png)
+
+</div>
+
+<div class='card'>
+
+**Learning**
+
+![Icon](https://cdn-icons-png.flaticon.com/128/12743/12743701.png)
+
+</div>
+
+<div class='card'>
+
+**Work**
+
+![Icon](https://cdn-icons-png.flaticon.com/128/4727/4727424.png)
+
+</div>
+
+</div>
 
 ---
 
 # What is most important to me and why
 
-- Always try my best in everything I do
-- Honesty and transparency
-- Family and partner
+<div class='card-container'>
+
+<div class='card'>
+
+**Effort**
+
+![Icon](https://cdn-icons-png.flaticon.com/128/5674/5674922.png)
+
+</div>
+
+<div class='card'>
+
+**Integrity**
+
+![Icon](https://cdn-icons-png.flaticon.com/128/5670/5670906.png)
+
+</div>
+
+<div class='card'>
+
+**Family**
+
+![Icon](https://cdn-icons-png.flaticon.com/128/2342/2342441.png)
+
+</div>
+
+</div>
 
 ---
 
@@ -150,19 +198,55 @@ _class: title
 
 # Problem-solving
 
-- Set up automated marking system for university assignments
+**Scenario**: Set up automated marking system for university assignments
+
+<div class='columns'>
+
+**Situation** Teaching staff for a programming course that relied on manual marking
+
+**Task** Extend an existing system to automate marking at scale
+
+**Action** Identify compatibility issues between systems and resolve them. Use of environment variables
+
+**Result** Deployed system served 600 students with minimal issues and requires no manual intervention
+
+</div>
 
 ---
 
 # Adaptability
 
-- Inherited a web project with no previous experience, and little documentation
+**Scenario**: Inherited a web project with no previous experience, and little documentation
+
+<div class='columns'>
+
+**Situation** August 2021, new job, new project
+
+**Task** Understand the project, make changes, and deploy
+
+**Action** Read through the codebase, read official documentation, trial and error
+
+**Result** Successfully deployed the project with minor issues, and learned a lot about the tech stack
+
+</div>
 
 ---
 
 # Application of knowledge
 
-- Learned Markdown for teaching purposes in 2022
+**Scenario**: Learned Markdown for teaching purposes in 2022, applied to various other jobs
+
+<div class='columns'>
+
+**Situation** Tutor statistics in 2022, learned RMarkdown for teaching
+
+**Task** Create teaching materials and share to students as PDF (rendered from RMarkdown)
+
+**Action** Continued to use Markdown for other jobs, such as documentation and learning materials
+
+**Result** Efficiently create documents and materials, and share knowledge with others
+
+</div>
 
 ---
 
