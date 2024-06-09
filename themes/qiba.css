@@ -123,3 +123,23 @@ section.title .title-center.text-left {
   height: 125px;
   border-radius: 5px;
 }
+
+.columns {
+  display: flex;
+  flex-direction: row;
+}
+
+.columns p {
+  /* Card */
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px;
+  background: linear-gradient(135deg, #ffd4ff 0%, #b7ffff 75%);
+  flex: 1;
+}
+
+.columns p strong {
+  display: block;
+  text-align: center;
+}
