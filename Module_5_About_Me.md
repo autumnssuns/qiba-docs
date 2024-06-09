@@ -81,6 +81,14 @@ _class: title
 
 </div>
 
+<div class='card'>
+
+**Games**
+
+![Icon](https://cdn-icons-png.flaticon.com/128/1083/1083364.png)
+
+</div>
+
 </div>
 
 ---
@@ -142,6 +150,14 @@ _class: title
 **Motivation**
 
 ![Icon](https://cdn-icons-png.flaticon.com/128/3989/3989573.png)
+
+</div>
+
+<div class='card'>
+
+**Internet**
+
+![Icon](https://cdn-icons-png.flaticon.com/128/364/364089.png)
 
 </div>
 
