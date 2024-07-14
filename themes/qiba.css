@@ -2,8 +2,21 @@
 
 @import "default";
 
+/* Colors */
+:root {
+  --primary-color: #ff0dff;
+  --secondary-color: #0daaaa;
+  --background-color: #f0f4f4;
+  --hover-color: #fedcc0;
+  --selected-color: #e46c0a;
+  --text-color: #000000;
+  --gradient-color1: #ffe0ff;
+  --gradient-color2: #c9ffff;
+}
+
 section {
   justify-content: start;
+  background-color: var(--background-color);
 }
 
 section.title {
@@ -11,9 +24,10 @@ section.title {
 }
 
 h1 {
-  background: linear-gradient(90deg, #ff0dff 0%, #25efef 75%);
+  background: linear-gradient(90deg, var(--primary-color) 0%, var(--secondary-color) 75%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  width: fit-content;
 }
 
 footer {
@@ -21,7 +35,7 @@ footer {
   left: 0px;
   bottom: 0px;
   width: 100%;
-  background: linear-gradient(90deg, #ff0dff 0%, #25efef 75%);
+  background: linear-gradient(90deg, var(--primary-color) 0%, var(--secondary-color) 75%);
   color: white;
 }
 
@@ -41,7 +55,7 @@ img {
 }
 
 .hover-line p:hover {
-  background-color: #fedcc0;
+  background-color: var(--hover-color);
 }
 
 .hover-line p {
@@ -49,14 +63,14 @@ img {
 }
 
 .hover-line .selected {
-  background-color: #e46c0a;
+  background-color: var(--selected-color);
   color: white;
 }
 
 .typed-out {
-  color: #0000;
-  background: linear-gradient(-90deg, #e46c0a 5px, #0000 0) 10px 0,
-    linear-gradient(#e46c0a 0 0) 0 0;
+  color: var(--text-color);
+  background: linear-gradient(-90deg, var(--selected-color) 5px, var(--text-color) 0) 10px 0,
+    linear-gradient(var(--selected-color) 0 0) 0 0;
   background-size: calc(var(--n) * 1ch) 200%;
   -webkit-background-clip: padding-box, text;
   background-repeat: no-repeat;
@@ -70,7 +84,7 @@ img {
 }
 
 td:hover {
-  background-color: #fedcc0;
+  background-color: var(--hover-color);
   opacity: 1;
   cursor: pointer;
 }
@@ -115,7 +129,7 @@ section.title .title-center.text-left {
   width: 200px;
   height: 200px;
   text-align: center;
-  background: linear-gradient(135deg, #ffd4ff 0%, #b7ffff 75%);
+  background: linear-gradient(135deg, var(--gradient-color1) 0%, var(--gradient-color2) 75%);
 }
 
 .card img {
@@ -126,20 +140,59 @@ section.title .title-center.text-left {
 
 .columns {
   display: flex;
+  flex-direction: column;
+}
+
+.rows {
+  display: flex;
   flex-direction: row;
 }
 
-.columns p {
+.rows p {
+  width: fit-content;
+}
+
+.flow {
+  gap: 0.25rem;
+}
+
+.flow p {
   /* Card */
   margin: 10px;
   padding: 10px;
   border-radius: 5px;
   box-shadow: 5px 5px 5px;
-  background: linear-gradient(135deg, #ffd4ff 0%, #b7ffff 75%);
+  background: linear-gradient(135deg, var(--gradient-color1) 0%, var(--gradient-color2) 75%);
   flex: 1;
 }
 
-.columns p strong {
+.flow p strong {
   display: block;
   text-align: center;
+}
+
+.grid {
+  display: grid;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.text-lg {
+  font-size: 1.25rem;
+}
+
+section.bg-gradient {
+  background: linear-gradient(135deg, var(--gradient-color1) 0%, var(--gradient-color2) 75%); 
+}
+
+mark.highlight {
+  /* Gradient */
+  font-weight: bold;
+  background: linear-gradient(to right, var(--gradient-color1) 0%, var(--gradient-color2) 75%);
+  box-shadow: 2px 2px 1px;
+  border-radius: 5px;
+  position: relative;
+  z-index: 1;
 }
