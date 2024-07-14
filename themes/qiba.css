@@ -240,9 +240,15 @@ mark.highlight {
   -webkit-box-decoration-break: clone;
 }
 
-.small-img img {
+.flow.img-sm img {
   width: 150px;
   height: 150px;
   margin: 0 auto;
   display: flex;
+}
+
+.flow.img-left img {
+  display: inline;
+  margin: 0.25rem;
+  float: left;
 }
