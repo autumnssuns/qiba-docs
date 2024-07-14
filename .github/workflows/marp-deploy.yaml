@@ -129,6 +129,9 @@ jobs:
       - name: Copy themes
         run: cp -R ./themes/ build/
 
+      - name: Copy book-nook-site.html
+        run: cp book-nook-site.html build/
+
       - name: Deploy preview
         if: ${{ github.event_name == 'pull_request' }}
         uses: rossjrw/pr-preview-action@v1
