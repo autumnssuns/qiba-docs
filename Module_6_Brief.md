@@ -58,7 +58,7 @@ footer: ""
 
 **Yuan** ***Business Analyst*** Background in business, experience in data analysis
 
-**Frank** ***Marketing Coordinator*** Background in marketing, experience in digital marketing
+**Frank** ***Resource Coordinator*** Background in HR, experience in resource management
 
 </div>
 
