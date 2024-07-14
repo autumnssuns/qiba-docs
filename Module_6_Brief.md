@@ -16,22 +16,17 @@ footer: '**QIBA - Module 6**<br>Professional Performance'
 
 # Module 6: Professional Performance
 
-**Team:**
+**Team:** Dan, Frank, Harry, Yuan
 
-- **Dan**:
-- **Frank**:
-- **Harry**: 
-- **Yuan**:
+![bg opacity:0.5 blur:2px](https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-an-empty-bookshop-stacked-with-books-image_2924924.jpg)
 
 </div>
-
----
 
 <!-- 
 footer: ""
 -->
 
-# Purpose & Overview of the Assessment
+<!-- # Purpose & Overview of the Assessment
 
 - Teams are given a project to be completed over several weeks.
 - Facilitators provide time during class sessions for teams to have weekly discussions and work towards a solution to a scenario problem.
@@ -49,17 +44,7 @@ footer: ""
 - **Local Books Bookstore Pty Ltd** is your first customer.
 - They are seeking your advice and ideas on how to turnaround their failing business.
 
----
-
-<!-- 
-_class: title
--->
-
-<div class='title-center'>
-
-# Current Situation
-
-</div>
+--- -->
 
 ---
 
@@ -91,6 +76,18 @@ _class: title
 
 ---
 
+<!-- 
+_class: title
+-->
+
+<div class='title-center'>
+
+# Current Situation
+
+</div>
+
+---
+
 # Book Nook SWOT Analysis
 
 <div class='flow grid h-full' style="grid-template-columns: 1fr 1fr">
@@ -104,6 +101,24 @@ _class: title
 **Threats** Reduced profits<br>Bankruptcy<br>Loss of jobs
 
 </div>
+
+---
+
+# Why customers choose Book Nook
+
+Popular amongst <mark class='highlight'>older customers</mark> who:
+
+- Likes reading **hard copies**
+- Supports **local** businesses
+- Lives **nearby**
+- Explores **gifting** options
+- Wants to **educate** their children
+
+Has a small community of <mark class='highlight'>loyal customers</mark> who:
+
+- Regularly **visit the store**
+- **Recommend** the store to friends
+- **Subscribe** to the monthly catalogue
 
 ---
 
@@ -135,7 +150,7 @@ _class: title
 
 ---
 
-# Financials
+# Financial Situation
 
 <small>
 
@@ -184,11 +199,13 @@ Mostly <mark class='highlight'>Online Retailers</mark>, e.g., Amazon, Booktopia,
 
 Some customers <mark class='highlight'>read in store</mark> but <mark class='highlight'>buy online</mark> at a different retailer for cheaper prices.
 
+- **No policy** to prevent this
+
 ---
 
-# Marketing
+# Marketing Efforts
 
-<mark class='highlight'>Limited marketing effort</mark>:
+<mark class='highlight'>Limited</mark>:
 
 - Local newspapers advertisements
 - Monthly catalogues new books
