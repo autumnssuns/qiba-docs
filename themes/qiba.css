@@ -16,7 +16,8 @@
 
 section {
   justify-content: start;
-  background-color: var(--background-color);
+  /* background-color: var(--background-color); */
+  background: linear-gradient(135deg, var(--gradient-color1) 0%, var(--background-color) 25%, var(--background-color) 75%, var(--gradient-color2) 100%);
 }
 
 section.title {

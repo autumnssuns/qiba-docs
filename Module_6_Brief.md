@@ -104,7 +104,7 @@ _class: title
 
 ---
 
-# Why customers choose Book Nook
+# 😊 Why customers choose Book Nook 
 
 Popular amongst <mark class='highlight'>older customers</mark> who:
 
@@ -122,7 +122,7 @@ Has a small community of <mark class='highlight'>loyal customers</mark> who:
 
 ---
 
-# Human Resources
+# 🤨 Human Resources 
 
 **Full-time**: ~$80,000/year average (inc. super, leave, bonuses)
 
@@ -150,7 +150,7 @@ Has a small community of <mark class='highlight'>loyal customers</mark> who:
 
 ---
 
-# Financial Situation
+# 😟 Financial Situation
 
 <small>
 
@@ -186,7 +186,7 @@ Has a small community of <mark class='highlight'>loyal customers</mark> who:
 
 ---
 
-# Competitors
+# 😫 Competitors
 
 Mostly <mark class='highlight'>Online Retailers</mark>, e.g., Amazon, Booktopia, etc:
 
@@ -203,7 +203,7 @@ Some customers <mark class='highlight'>read in store</mark> but <mark class='hig
 
 ---
 
-# Marketing Efforts
+# 😵‍💫 Marketing Efforts
 
 <mark class='highlight'>Limited</mark>:
 
