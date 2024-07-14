@@ -122,6 +122,20 @@ Has a small community of <mark class='highlight'>loyal customers</mark> who:
 
 ---
 
+# 🧐 Customer Profiles
+
+<div class='flow rows small-img' style='font-size: 24px'>
+
+**Sophie Williams** ![](https://cdn-icons-png.flaticon.com/128/12404/12404120.png) High School English Teacher 45F, Bachelor's in English Literature, Master's in Education. Passionate about literature and education. <br><br> Married, two children (12 and 15).
+
+**James Carter** ![](https://cdn-icons-png.flaticon.com/128/145/145843.png) Software Developer 30M, Bachelor's in Computer Science. Enjoys science fiction, fantasy, technology, and gaming. <br><br> Single, living alone.
+
+**Rachel Kim** ![](https://cdn-icons-png.flaticon.com/128/4128/4128373.png) Graphic Designer 38F, Bachelor’s in Fine Arts, Certificate in Graphic Design. Passionate about art, design, and literature. Single, living with her cat.
+
+<div>
+
+---
+
 # 🤨 Human Resources 
 
 **Full-time**: ~$80,000/year average (inc. super, leave, bonuses)
@@ -158,13 +172,35 @@ Has a small community of <mark class='highlight'>loyal customers</mark> who:
 
 **Mark Johnson** ***Inventory Manager*** ![](https://cdn-icons-png.flaticon.com/128/4140/4140037.png) <br> 32M, Bachelor in Supply Chain Management. Skilled in logistics, stock control, and supplier negotiations. <br><br> Single, enjoys outdoor activities and traveling.
 
-**Claire Adams** **Admin** ![](https://cdn-icons-png.flaticon.com/128/6997/6997662.png) <br> 30F, Diploma in Accounting. Experience in bookkeeping, payroll, and office management. <br><br> Engaged and planning a wedding.
+**Claire Adams** ***Admin*** ![](https://cdn-icons-png.flaticon.com/128/6997/6997662.png) <br> 30F, Diploma in Accounting. Experience in bookkeeping, payroll, and office management. <br><br> Engaged and planning a wedding.
 
 </div>
 
 ---
 
-# 😐 Staff Profiles - Casual
+# 🙂 Staff Profiles - Casual
+
+<div class='flow rows small-img' style='font-size: 24px'>
+
+**Emily Harris** ***Marketing Coordinator (1 day/week)*** ![](https://cdn-icons-png.flaticon.com/128/6997/6997660.png) 25F, Bachelor’s in Marketing. Experience in creating marketing campaigns and managing social media. <br><br>Lives with her partner, enjoys exploring the local area.
+
+**Jason Lee** ***Digital Marketer (1 day/week)*** ![](https://cdn-icons-png.flaticon.com/128/6997/6997551.png) 27M, Bachelor’s in Digital Media. Skilled in SEO, website management, and online advertising. <br><br>Single, enjoys technology and social activities
+
+</div>
+
+---
+
+# 🙂 Staff Profiles - Casual (cont.)
+
+<div class='flow rows small-img' style='font-size: 24px'>
+
+**Alex Roberts** ***Storekeeper*** ![](https://cdn-icons-png.flaticon.com/128/6997/6997674.png) 22M, Bachelor’s degree in Literature (currently studying). Experienced in customer service and cash handling. <br><br>Lives with roommates, enjoys book clubs.
+
+**Maya Singh** ***Storekeeper*** ![](https://cdn-icons-png.flaticon.com/128/6833/6833605.png) 29F, Certificate in Retail Management. Skilled in inventory management and customer service. <br><br>Married, 1 young child, enjoys family outings.
+
+**Ben Taylor** ***Storekeeper*** ![](https://cdn-icons-png.flaticon.com/128/6997/6997676.png) 34M, High School Diploma. Experienced in customer service and stock management. <br><br>Lives with partner and dog, enjoys outdoor activities.
+
+</div>
 
 ---
 
