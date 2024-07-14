@@ -1,11 +1,11 @@
 /* @theme qiba */
 
-@import "default";
+@import 'default';
 
 /* Colors */
 :root {
   --primary-color: #ff0dff;
-  --secondary-color: #0daaaa;
+  --secondary-color: #3bcac8;
   --background-color: #f0f4f4;
   --hover-color: #fedcc0;
   --selected-color: #e46c0a;
@@ -17,7 +17,13 @@
 section {
   justify-content: start;
   /* background-color: var(--background-color); */
-  background: linear-gradient(135deg, var(--gradient-color1) 0%, var(--background-color) 25%, var(--background-color) 75%, var(--gradient-color2) 100%);
+  background: radial-gradient(
+      in oklch at 0 0,
+      var(--gradient-color1) 0,
+      var(--background-color) 25%,
+      var(--background-color) 75%,
+      var(--gradient-color2) 100%
+    )
 }
 
 section.title {
@@ -25,7 +31,11 @@ section.title {
 }
 
 h1 {
-  background: linear-gradient(90deg, var(--primary-color) 0%, var(--secondary-color) 75%);
+  background: linear-gradient(
+    in oklch 90deg,
+    var(--primary-color) 0%,
+    var(--secondary-color) 75%
+  );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   width: fit-content;
@@ -36,13 +46,17 @@ footer {
   left: 0px;
   bottom: 0px;
   width: 100%;
-  background: linear-gradient(90deg, var(--primary-color) 0%, var(--secondary-color) 75%);
+  background: linear-gradient(
+    in oklch 90deg,
+    var(--primary-color) 0%,
+    var(--secondary-color) 75%
+  );
   color: white;
 }
 
 footer::after {
   position: absolute;
-  content: "";
+  content: '';
   top: 10px;
   left: 1175px;
   width: 80px;
@@ -70,8 +84,13 @@ img {
 
 .typed-out {
   color: var(--text-color);
-  background: linear-gradient(-90deg, var(--selected-color) 5px, var(--text-color) 0) 10px 0,
-    linear-gradient(var(--selected-color) 0 0) 0 0;
+  background: linear-gradient(
+        in oklch -90deg,
+        var(--selected-color) 5px,
+        var(--text-color) 0
+      )
+      10px 0,
+    linear-gradient(in oklch var(--selected-color) 0 0) 0 0;
   background-size: calc(var(--n) * 1ch) 200%;
   -webkit-background-clip: padding-box, text;
   background-repeat: no-repeat;
@@ -130,7 +149,11 @@ section.title .title-center.text-left {
   width: 200px;
   height: 200px;
   text-align: center;
-  background: linear-gradient(135deg, var(--gradient-color1) 0%, var(--gradient-color2) 75%);
+  background: linear-gradient(
+    in oklch 135deg,
+    var(--gradient-color1) 0%,
+    var(--gradient-color2) 75%
+  );
 }
 
 .card img {
@@ -163,7 +186,11 @@ section.title .title-center.text-left {
   padding: 10px;
   border-radius: 5px;
   box-shadow: 5px 5px 5px;
-  background: linear-gradient(135deg, var(--gradient-color1) 0%, var(--gradient-color2) 75%);
+  background: linear-gradient(
+    in oklch 135deg,
+    var(--gradient-color1) 0%,
+    var(--gradient-color2) 75%
+  );
   flex: 1;
 }
 
@@ -185,13 +212,21 @@ section.title .title-center.text-left {
 }
 
 section.bg-gradient {
-  background: linear-gradient(135deg, var(--gradient-color1) 0%, var(--gradient-color2) 75%); 
+  background: linear-gradient(
+    in oklch 135deg,
+    var(--gradient-color1) 0%,
+    var(--gradient-color2) 75%
+  );
 }
 
 mark.highlight {
   /* Gradient */
   font-weight: bold;
-  background: linear-gradient(to right, var(--gradient-color1) 0%, var(--gradient-color2) 75%);
+  background: linear-gradient(
+    in oklch to right,
+    var(--gradient-color1) 0%,
+    var(--gradient-color2) 75%
+  );
   box-shadow: 2px 2px 1px;
   border-radius: 5px;
   position: relative;
