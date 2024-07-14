@@ -173,7 +173,14 @@ _class: title
 
 # Competitors
 
-Mostly <mark class='highlight'>Online Retailers</mark>, e.g., Amazon, Booktopia, etc.
+Mostly <mark class='highlight'>Online Retailers</mark>, e.g., Amazon, Booktopia, etc:
+
+- **Wider selection** of products to choose from
+- **Convenience** of online shopping
+- **Lower prices** due to bulk purchasing from worldwide suppliers
+- **Better shopping experience** with recommendations, shopping history
+- **Easy payment** options (card, PayPal, etc.)
+- **Lower operation costs**, no physical store, fewer staff
 
 ---
 
