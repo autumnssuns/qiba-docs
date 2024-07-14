@@ -199,6 +199,10 @@ section.title .title-center.text-left {
   text-align: center;
 }
 
+.flow.title-left p strong {
+  text-align: left;
+}
+
 .grid {
   display: grid;
 }
