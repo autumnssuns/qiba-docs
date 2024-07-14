@@ -150,6 +150,24 @@ Has a small community of <mark class='highlight'>loyal customers</mark> who:
 
 ---
 
+# 🙂 Staff Profiles - Full-time
+
+<div class='flow rows small-img' style='font-size: 24px'>
+
+**Sarah Mitchell** ***Manager*** ![](https://cdn-icons-png.flaticon.com/128/11498/11498793.png) <br> 40F, MBA. Experience in team leadership, strategic planning, and customer service. <br><br> Married, 1 teenage daughter. <br>
+
+**Mark Johnson** ***Inventory Manager*** ![](https://cdn-icons-png.flaticon.com/128/4140/4140037.png) <br> 32M, Bachelor in Supply Chain Management. Skilled in logistics, stock control, and supplier negotiations. <br><br> Single, enjoys outdoor activities and traveling.
+
+**Claire Adams** **Admin** ![](https://cdn-icons-png.flaticon.com/128/6997/6997662.png) <br> 30F, Diploma in Accounting. Experience in bookkeeping, payroll, and office management. <br><br> Engaged and planning a wedding.
+
+</div>
+
+---
+
+# 😐 Staff Profiles - Casual
+
+---
+
 # 😟 Financial Situation
 
 <small>
