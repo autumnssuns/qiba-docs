@@ -19,9 +19,9 @@ footer: '**QIBA - Module 6**<br>Professional Performance'
 **Team:**
 
 - **Dan**:
-- **Frank**, 
-- **Harry**, 
-- **Yuan**
+- **Frank**:
+- **Harry**: 
+- **Yuan**:
 
 </div>
 
@@ -51,18 +51,6 @@ footer: ""
 
 ---
 
-# Background of Local Books Bookstore Pty Ltd
-
-- Located in a <mark class='highlight'>suburban shopping centre</mark>
-- Profits and sales have <mark class='highlight'>dropped drastically</mark> in the <mark class='highlight'>last three years</mark>
-- Facing the possibility of significant loss and <mark class='highlight'>potential bankruptcy</mark>
-- <mark class='highlight'>3 full-time staff</mark> and <mark class='highlight'>5 casual staff</mark>
-- Unable to <mark class='highlight'>compete on price</mark> with online booksellers
-- <mark class='highlight'>Limited marketing efforts</mark> through <mark class='highlight'>paid advertisements</mark> and <mark class='highlight'>monthly catalogues</mark>
-- Has <mark class='highlight'>simple website</mark> with basic information about the store
-
----
-
 <!-- 
 _class: title
 -->
@@ -77,21 +65,33 @@ _class: title
 
 # Our Team
 
-<div class='flow grid h-full' style='grid-template-columns: 1fr 1fr'>
+<div class='flow grid' style='grid-template-columns: 1fr 1fr'>
 
-**Dan** Project Manager
+**Dan** ***Project Manager*** Background in IT, experience in project management
 
-**Harry**
+**Harry** ***Accountant*** Background in finance, experience in accounting and legal
 
-**Yuan**
+**Yuan** ***Business Analyst*** Background in business, experience in data analysis
 
-**Frank**
+**Frank** ***Marketing Coordinator*** Background in marketing, experience in digital marketing
 
 </div>
 
 ---
 
-# SWOT
+# Our Client - Book Nook
+
+- Located in a <mark class='highlight'>suburban shopping centre</mark>
+- Profits and sales have <mark class='highlight'>dropped drastically</mark> in the <mark class='highlight'>last three years</mark>
+- Facing the possibility of significant loss and <mark class='highlight'>potential bankruptcy</mark>
+- <mark class='highlight'>3 full-time staff</mark> and <mark class='highlight'>5 casual staff</mark>
+- Unable to <mark class='highlight'>compete on price</mark> with online booksellers
+- <mark class='highlight'>Limited marketing efforts</mark> through <mark class='highlight'>paid advertisements</mark> and <mark class='highlight'>monthly catalogues</mark>
+- Has <mark class='highlight'>simple website</mark> with basic information about the store
+
+---
+
+# Book Nook SWOT Analysis
 
 <div class='flow grid h-full' style="grid-template-columns: 1fr 1fr">
 
@@ -159,7 +159,7 @@ _class: title
 
 <div  style='flex: 0.5'>
 
-<mark class='highlight'>Income</mark>: ~35 books /day at $20 each: $\quad\$245,000 \text{ p.a.}$
+<mark class='highlight'>Income</mark>: ~35 books/day at $20 each: $\quad\$245,000 \text{ p.a.}$
 
 </div>
 
@@ -182,14 +182,23 @@ Mostly <mark class='highlight'>Online Retailers</mark>, e.g., Amazon, Booktopia,
 - **Easy payment** options (card, PayPal, etc.)
 - **Lower operation costs**, no physical store, fewer staff
 
+Some customers <mark class='highlight'>read in store</mark> but <mark class='highlight'>buy online</mark> at a different retailer for cheaper prices.
+
 ---
 
 # Marketing
 
 <mark class='highlight'>Limited marketing effort</mark>:
 
-- Local newspapers
-- Monthly catalogues
+- Local newspapers advertisements
+- Monthly catalogues new books
 
-<mark class='highlight'>Simple website</mark> with basic information.
+<mark class='highlight'>Simple website</mark> with basic information: [Book Nook](https://autumnssuns.github.io/qiba-docs/book-nook-site)
 
+- **Store location** and **trading hours**
+- **Doesn't function** properly
+- No **online store**
+
+<mark class='highlight'>Cannot reach young customers</mark>
+
+![bg right](themes/Images/Book_Nook.png)
