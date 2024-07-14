@@ -249,7 +249,7 @@ _class: title
 
 **Scenario**: Set up automated marking system for university assignments
 
-<div class='columns'>
+<div class='flow columns'>
 
 **Situation** Teaching staff for a programming course that relied on manual marking
 
@@ -267,7 +267,7 @@ _class: title
 
 **Scenario**: Inherited a web project with no previous experience, and little documentation
 
-<div class='columns'>
+<div class='flow columns'>
 
 **Situation** August 2021, new job, new project
 
@@ -285,7 +285,7 @@ _class: title
 
 **Scenario**: Learned Markdown for teaching purposes in 2022, applied to various other jobs
 
-<div class='columns'>
+<div class='flow columns'>
 
 **Situation** Tutor statistics in 2022, learned RMarkdown for teaching
 
