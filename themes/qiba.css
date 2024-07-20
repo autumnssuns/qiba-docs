@@ -24,6 +24,7 @@ section {
     var(--light) 75%,
     var(--accent-light-2) 100%
   );
+  z-index: -10;
 }
 
 section.title {
