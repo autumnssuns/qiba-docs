@@ -4,26 +4,26 @@
 
 /* Colors */
 :root {
-  --primary-color: #ff0dff;
-  --secondary-color: #3bcac8;
-  --background-color: #f0f4f4;
+  --accent-1: #a41adb;
+  --accent-2: #0e69b3;
+  --light: #fff;
   --hover-color: #fedcc0;
   --selected-color: #e46c0a;
   --text-color: #000000;
-  --gradient-color1: #ffe0ff;
-  --gradient-color2: #c9ffff;
+  --accent-light-1: #f4e0ff;
+  --accent-light-2: #c9e2ff;
 }
 
 section {
   justify-content: start;
   /* background-color: var(--background-color); */
   background: radial-gradient(
-      in oklch at 0 0,
-      var(--gradient-color1) 0,
-      var(--background-color) 25%,
-      var(--background-color) 75%,
-      var(--gradient-color2) 100%
-    )
+    in oklch at 0 0,
+    var(--accent-light-1) 0,
+    var(--light) 25%,
+    var(--light) 75%,
+    var(--accent-light-2) 100%
+  );
 }
 
 section.title {
@@ -33,8 +33,8 @@ section.title {
 h1 {
   background: linear-gradient(
     in oklch 90deg,
-    var(--primary-color) 0%,
-    var(--secondary-color) 75%
+    var(--accent-1) 0%,
+    var(--accent-2) 75%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -48,8 +48,8 @@ footer {
   width: 100%;
   background: linear-gradient(
     in oklch 90deg,
-    var(--primary-color) 0%,
-    var(--secondary-color) 75%
+    var(--accent-1) 0%,
+    var(--accent-2) 75%
   );
   color: white;
 }
@@ -122,12 +122,43 @@ section.title .title-header {
 
 section.title .title-center {
   margin: 0 auto 50px auto;
-  border-radius: 5px;
-  backdrop-filter: brightness(2);
+  border-radius: 0.5rem;
+  backdrop-filter: brightness(1);
+  background: rgba(255, 255, 255, 0.75);
   box-shadow: 5px 5px 5px;
   width: fit-content;
   padding: 0 100px;
   text-align: center;
+}
+
+section.title .title-center::before {
+  /* Gradient background */
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 0.5rem;
+  background: linear-gradient(
+    in oklch 135deg,
+    var(--accent-light-1) 0%,
+    var(--accent-light-2) 50%,
+    var(--accent-light-1) 75%
+  );
+  opacity: 0.75;
+  z-index: -1;
+  animation: swipe 5s linear infinite;
+  background-size: 200% 200%;
+}
+
+@keyframes swipe {
+  0% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 200% 0%;
+  }
 }
 
 section.title .title-center.text-left {
@@ -151,8 +182,8 @@ section.title .title-center.text-left {
   text-align: center;
   background: linear-gradient(
     in oklch 135deg,
-    var(--gradient-color1) 0%,
-    var(--gradient-color2) 75%
+    var(--accent-light-1) 0%,
+    var(--accent-light-2) 75%
   );
 }
 
@@ -162,49 +193,8 @@ section.title .title-center.text-left {
   border-radius: 5px;
 }
 
-.columns {
-  display: flex;
-  flex-direction: column;
-}
-
-.rows {
-  display: flex;
-  flex-direction: row;
-}
-
 .rows p {
   width: fit-content;
-}
-
-.flow {
-  gap: 0.25rem;
-}
-
-.flow p {
-  /* Card */
-  margin: 10px;
-  padding: 10px;
-  border-radius: 5px;
-  box-shadow: 5px 5px 5px;
-  background: linear-gradient(
-    in oklch 135deg,
-    var(--gradient-color1) 0%,
-    var(--gradient-color2) 75%
-  );
-  flex: 1;
-}
-
-.flow p strong {
-  display: block;
-  text-align: center;
-}
-
-.flow.title-left p strong {
-  text-align: left;
-}
-
-.grid {
-  display: grid;
 }
 
 .h-full {
@@ -218,18 +208,18 @@ section.title .title-center.text-left {
 section.bg-gradient {
   background: linear-gradient(
     in oklch 135deg,
-    var(--gradient-color1) 0%,
-    var(--gradient-color2) 75%
+    var(--accent-light-1) 0%,
+    var(--accent-light-2) 75%
   );
 }
 
-mark.highlight {
+highlight {
   /* Gradient */
-  font-weight: bold;
+  font-weight: 600;
   background: linear-gradient(
     in oklch to right,
-    var(--gradient-color1) 0%,
-    var(--gradient-color2) 75%
+    var(--accent-light-1) 0%,
+    var(--accent-light-2) 75%
   );
   box-shadow: 2px 2px 1px;
   border-radius: 5px;
@@ -251,4 +241,318 @@ mark.highlight {
   display: inline;
   margin: 0.25rem;
   float: left;
+}
+
+.flow.grid {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.flow.grid.cols-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.flow.grid.cols-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.flow.grid.cols-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.flow.grid.cols-5 {
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.flow.grid.cols-6 {
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.flow.grid.cols-7 {
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.flow.grid.cols-8 {
+  grid-template-columns: repeat(8, 1fr);
+}
+
+.flow.grid.cols-9 {
+  grid-template-columns: repeat(9, 1fr);
+}
+
+.flow.grid.cols-10 {
+  grid-template-columns: repeat(10, 1fr);
+}
+
+.flow.flex {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.flow > blockquote {
+  color: unset;
+}
+
+.flow.no-style > * {
+  border: unset;
+  border-radius: unset;
+  box-shadow: unset;
+  padding: unset;
+  background: unset;
+}
+
+.flow > * {
+  /* Card */
+  border: none;
+  border-radius: 0.25rem;
+  box-shadow: 0.1rem 0.1rem 0.5rem rgba(70, 66, 109, 0.25);
+  padding: 0.5rem;
+  flex: 1;
+  background: var(--light);
+}
+
+.flow.stacked {
+  position: static;
+}
+
+.flow.stacked.darken > *:not(:hover)::before {
+  /* Dark overlay */
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.flow.stacked > * {
+  transition: all 0.4s ease-out;
+  /* transform: scale(0.8); */
+  transform: perspective(1000px) translateZ(-200px);
+  position: relative;
+}
+
+.flow.stacked > *:not(:first-child) {
+  transition: all 0.4s ease-out;
+}
+
+.flow.stacked > *:hover {
+  z-index: 1;
+  opacity: 1;
+  transition: all 0.4s ease-out;
+}
+
+.flow.stacked > *:hover ~ * {
+  position: relative;
+  transition: all 0.4s ease-out;
+  transform: translateZ(0);
+}
+
+.flow.stacked:not(.column) > * {
+  left: 0;
+}
+
+.flow.stacked:not(.column) > *:not(:first-child) {
+  margin-left: calc(var(--marpit-root-font-size, 1rem) * (-10));
+}
+
+.flow.stacked:not(.column) > *:hover {
+  transform: translateY(0.5rem);
+}
+
+.flow.stacked:not(.column) > *:hover ~ * {
+  left: 9rem;
+}
+
+.flow.stacked.column > * {
+  top: 0;
+}
+
+.flow.stacked.column > *:not(:first-child) {
+  margin-top: calc(var(--marpit-root-font-size, 1rem) * (-5));
+}
+
+.flow.stacked.column > *:hover {
+  transform: translateX(0.5rem);
+}
+
+.flow.stacked.column > *:hover ~ * {
+  top: 4rem;
+}
+
+.flow.titled > blockquote > p:first-child:has(strong),
+.flow.titled > p > strong:first-child {
+  display: block;
+  background: linear-gradient(in hsl 135deg, var(--accent-1), var(--accent-2));
+  padding: 0.25rem;
+  margin: calc(var(--marpit-root-font-size, 1rem) * (-0.5));
+  margin-bottom: 0.5rem;
+  border-radius: 0.25rem 0.25rem 0 0;
+  text-align: center;
+  color: white;
+}
+
+.flow.titled > blockquote > p:first-child {
+  margin: -1rem;
+}
+
+.flow.titled > p strong:first-of-type {
+  margin-bottom: -0.5rem;
+}
+
+.flow.titled.title-w-fit > * strong:first-of-type {
+  width: fit-content;
+}
+
+.flow.titled.title-w-half > * strong:first-of-type {
+  width: 50%;
+}
+
+.flow.titled.title-left > blockquote > p:first-child,
+.flow.titled.title-left > p > strong:first-child {
+  text-align: start;
+}
+
+.flow.gradient > * {
+  background: linear-gradient(
+    in hsl 135deg,
+    var(--accent-light-1),
+    var(--accent-light-2)
+  );
+}
+
+.flow.row {
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.flow.column {
+  display: flex;
+  flex-direction: column;
+  /* Stretch content */
+  align-items: stretch;
+}
+
+.timeline > blockquote {
+  color: unset;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  margin: 0 auto;
+}
+
+.timeline.h-full {
+  position: unset;
+  height: 100%;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 0.125rem;
+  background: linear-gradient(in hsl 135deg, var(--accent-1), var(--accent-2));
+  top: 0;
+  bottom: 0;
+  left: 50%;
+}
+
+/* Container around content */
+.timeline > blockquote {
+  position: relative;
+  border: none;
+  border-radius: 0.25rem;
+  box-shadow: 0.1rem 0.1rem 0.5rem rgba(70, 66, 109, 0.25);
+  padding: 0.5rem;
+  max-width: 100%;
+  opacity: 1;
+}
+
+.timeline > blockquote:not(:first-child) {
+  margin-top: -10%;
+}
+
+/* The circles on the timeline */
+.timeline > blockquote::after {
+  content: '';
+  position: absolute;
+  width: 1rem;
+  height: 1rem;
+  background-color: var(--light);
+  top: 50%;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.timeline > blockquote:nth-child(odd):hover::after {
+  background-color: var(--accent-1);
+}
+
+.timeline > blockquote:nth-child(even):hover::after {
+  background-color: var(--accent-2);
+}
+
+.timeline > blockquote::before::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: var(--accent-1);
+  border-radius: 0.25rem;
+  z-index: -1;
+}
+
+.timeline > blockquote::before {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 100%;
+  top: 0;
+  right: 0;
+  background: linear-gradient(
+    in hsl 135deg,
+    var(--accent-light-1),
+    var(--accent-light-2)
+  );
+  opacity: 0.5;
+  border-radius: 0.25rem;
+  z-index: -1;
+  transition: width 0.2s ease-out;
+}
+
+.timeline > blockquote:nth-child(even)::before {
+  left: 0;
+}
+
+.timeline > blockquote:hover::before {
+  width: 100%;
+  transition: width 0.2s ease-out;
+}
+
+.timeline > blockquote:nth-child(odd) {
+  left: calc(-50% - 1rem);
+}
+
+.timeline > blockquote:nth-child(odd) > p:has(strong):first-of-type {
+  text-align: right;
+}
+
+.timeline > blockquote:nth-child(even) {
+  left: calc(50% + 1rem);
+}
+
+.timeline > blockquote:nth-child(odd)::after {
+  border: 0.125rem solid var(--accent-1);
+  left: calc(100% + 0.5rem - 0.025rem);
+}
+
+.timeline > blockquote:nth-child(even)::after {
+  border: 0.125rem solid var(--accent-2);
+  right: calc(100% + 0.5rem - 0.175rem);
 }

@@ -30,23 +30,23 @@ footer: ""
 
 # Scenario 4 - New Office Planning
 
-> <mark class='highlight'>Über-Consulting</mark> is planning to open new offices in <mark class='highlight'>Darwin</mark> and <mark class='highlight'>Perth</mark>. 
+> <highlight>Über-Consulting</highlight> is planning to open new offices in <highlight>Darwin</highlight> and <highlight>Perth</highlight>. 
 > 
-> In line with Über’s company culture of <mark class='highlight'>employee empowerment</mark>, the Über management team discusses ways to <mark class='highlight'>involve as many staff as possible</mark> in the decision-making about the <mark class='highlight'>facilities</mark> and <mark class='highlight'>interior design</mark>.
+> In line with Über’s company culture of <highlight>employee empowerment</highlight>, the Über management team discusses ways to <highlight>involve as many staff as possible</highlight> in the decision-making about the <highlight>facilities</highlight> and <highlight>interior design</highlight>.
 
 Consider:
 
-1. Discuss <mark class='highlight'>essential functions</mark> for the new offices considering the size, layout, and required facilities.
-2. Explore ways to <mark class='highlight'>involve staff in the decision-making</mark> process, such as using professional interior designers or conducting a staff survey.
-3. Discuss the <mark class='highlight'>stages of the decision-making</mark> process for purchasing computers, including selection criteria for comparing potential options.
+1. Discuss <highlight>essential functions</highlight> for the new offices considering the size, layout, and required facilities.
+2. Explore ways to <highlight>involve staff in the decision-making</highlight> process, such as using professional interior designers or conducting a staff survey.
+3. Discuss the <highlight>stages of the decision-making</highlight> process for purchasing computers, including selection criteria for comparing potential options.
 
 ---
 
 # Essential Functions - Operational Needs
 
-Essential for the <mark class='highlight'>daily operations</mark> of the business 
+Essential for the <highlight>daily operations</highlight> of the business 
 
-<div class='flow columns grid img-sm' style='grid-template-columns: 1fr 1fr 1fr 1fr'>
+<div class='flow titled flex img-sm'>
 
 **Workstations** ![](https://cdn-icons-png.flaticon.com/128/2271/2271548.png) Provide ergonomic workstations for staff.
 
@@ -62,17 +62,24 @@ Essential for the <mark class='highlight'>daily operations</mark> of the busines
 
 # Essential Functions - Support Facilities
 
-Support the <mark class='highlight'>general well-being</mark> of staff and visitors
+Support the <highlight>general well-being</highlight> of staff and visitors
 
-<div class='flow columns grid img-sm' style='grid-template-columns: 1fr 1fr 1fr 1fr'>
+<div class='flow flex img-sm titled'>
 
-**Kitchenette** ![](https://cdn-icons-png.flaticon.com/128/16499/16499831.png) Include facilities for meals and breaks.
+**Kitchenette** 
+![](https://cdn-icons-png.flaticon.com/128/16499/16499831.png) 
+Include facilities for meals and breaks.
 
-**Restrooms** ![](https://cdn-icons-png.flaticon.com/128/995/995072.png) Ensure accessible and well-maintained facilities.
+**Restrooms** 
+![](https://cdn-icons-png.flaticon.com/128/995/995072.png) Ensure accessible and well-maintained facilities.
 
-**Storage** ![](https://cdn-icons-png.flaticon.com/128/2789/2789610.png) Allocate space for supplies and personal belongings.
+**Storage** 
+![](https://cdn-icons-png.flaticon.com/128/2789/2789610.png) 
+Allocate space for supplies and personal belongings.
 
-**Air Conditioning** ![](https://cdn-icons-png.flaticon.com/128/3653/3653288.png) Maintain a comfortable and healthy environment.
+**Air Conditioning** 
+![](https://cdn-icons-png.flaticon.com/128/3653/3653288.png) 
+Maintain a comfortable and healthy environment.
 
 </div>
 
@@ -80,9 +87,9 @@ Support the <mark class='highlight'>general well-being</mark> of staff and visit
 
 # Essential Functions - Technical and Compliance
 
-Support the <mark class='highlight'>technical and security</mark> needs of the office
+Support the <highlight>technical and security</highlight> needs of the office
 
-<div class='flow columns grid img-sm' style='grid-template-columns: 1fr 1fr 1fr 1fr'>
+<div class='flow flex img-sm'>
 
 **IT & Network Infrastructure** ![](https://cdn-icons-png.flaticon.com/128/900/900334.png) Plan for network connectivity and power outlets.
 
@@ -98,15 +105,15 @@ Support the <mark class='highlight'>technical and security</mark> needs of the o
 
 # Involving Staff in Decision-Making
 
-<div class='flow columns grid img-sm img-left' style='font-size: 25px; grid-template-columns: 1fr 1fr'>
+<div class='flow grid cols-2 img-sm img-left'>
 
-![](https://cdn-icons-png.flaticon.com/128/3893/3893006.png) **Staff Survey** Conduct a survey to <mark class='highlight'>gather preferences and ideas</mark> from employees.
+![](https://cdn-icons-png.flaticon.com/128/3893/3893006.png) **Staff Survey** Conduct a survey to <highlight>gather preferences and ideas</highlight> from employees.
 
-![](https://cdn-icons-png.flaticon.com/128/2282/2282266.png) **Focus Groups** Organise focus groups to discuss design elements. Ensure <mark class='highlight'>diverse perspectives</mark>.
+![](https://cdn-icons-png.flaticon.com/128/2282/2282266.png) **Focus Groups** Organise focus groups to discuss design elements. Ensure <highlight>diverse perspectives</highlight>.
 
-![](https://cdn-icons-png.flaticon.com/128/10237/10237168.png) **Design Brief** Develop a brief based on survey results and focus group discussions. <mark class='highlight'>Share</mark> with professional interior designers.
+![](https://cdn-icons-png.flaticon.com/128/10237/10237168.png) **Design Brief** Develop a brief based on survey results and focus group discussions. <highlight>Share</highlight> with professional interior designers.
 
-![](https://cdn-icons-png.flaticon.com/128/3981/3981112.png) **Workshops** Host workshops where staff can <mark class='highlight'>actively participate in design decisions</mark>. Encourage creativity and ownership.
+![](https://cdn-icons-png.flaticon.com/128/3981/3981112.png) **Workshops** Host workshops where staff can <highlight>actively participate in design decisions</highlight>. Encourage creativity and ownership.
 
 </div>
 
@@ -114,7 +121,7 @@ Support the <mark class='highlight'>technical and security</mark> needs of the o
 
 # Decision-Making Process for Computer Purchases
 
-<div class='flow columns grid title-left' style='font-size: 25px; grid-template-columns: 1fr 1fr 1fr'>
+<div class='flow grid cols-3' style='font-size: 25px;'>
 
 **1️⃣ Needs Assessment** 
 Identify staff requirements (e.g., software needs, processing power, storage capacity).
