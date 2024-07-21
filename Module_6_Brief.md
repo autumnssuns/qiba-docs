@@ -379,6 +379,61 @@ Some customers <highlight>read in store</highlight> but <highlight>buy online</h
 
 ---
 
+<!-- 
+_class: title
+-->
+
+<div class='title-center'>
+
+# Envisioning the Future State
+
+</div>
+
+<!-- 
+Needs:
+
+- Cost
+- HR
+- Business model
+
+ -->
+
+---
+
+# Customer Profiles
+
+- More **diverse** customer base
+  - Inclusive of younger audiences
+
+---
+
+# Human Resources
+
+- Unchanged (current team is good)
+
+---
+
+# Business Model
+
+- Online store
+- Diverse range of products
+
+---
+
+# Online Presence
+
+- Presence on major social media platforms
+
+---
+
+# Marketing Strategy
+
+- Email marketing
+- Community engagement
+- Partnerships
+
+---
+
 # 🤔 Ideas for Improvement
 
 <div class='flow grid flex titled stacked'>
@@ -432,9 +487,23 @@ _class: title
 
 <div class='title-center'>
 
-# Project Turnaround
+# Project "Turnaround"
 
 </div>
+
+<!-- 
+
+- Empathetic side of the business
+- Training
+- Budget
+
+Impact
+
+Cost of ownership for future state
+
+Timeline
+
+-->
 
 ---
 
@@ -466,7 +535,7 @@ _class: title
 > (50% marketing + 30% accessibility)
 > **KPIs**: Website traffic, online sales data
 > **Risks**: Security breaches, bad reviews, low engagement
-> **Mitigation**: Secure payment gateways, customer service
+> **Mitigation**: Secure payment gateways, customer service (chatbot, FAQs, etc.)
 
 </div>
 
@@ -558,7 +627,7 @@ _class: title
 
 ---
 
-# 📈 Expectations
+# 📈 Benefit Realisation
 
 **Increased sales** by 110% in 2025
 
