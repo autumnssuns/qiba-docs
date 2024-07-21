@@ -225,7 +225,6 @@ highlight {
   box-shadow: 2px 2px 1px;
   border-radius: 5px;
   position: relative;
-  z-index: 1;
   padding: 0 0.2rem;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
@@ -314,6 +313,7 @@ highlight {
 
 .flow.stacked {
   position: static;
+  z-index: 2;
 }
 
 .flow.stacked.darken > *:not(:hover)::before {
