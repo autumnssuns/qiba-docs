@@ -55,22 +55,22 @@ footer: ""
 > **Dan** 
 > ***Project Manager*** 
 > 
-> Background in IT, experience in project management
+> Background in <highlight>IT</highlight>, experience in project management
 
 > **Harry** 
 > ***Accountant*** 
 > 
-> Background in finance, experience in accounting and legal
+> Background in <highlight>finance</highlight>, experience in accounting and legal
 
 > **Yuan** 
 > ***Business Analyst*** 
 > 
-> Background in business, experience in data analysis
+> Background in <highlight>business</highlight>, experience in data analysis
 
 > **Frank** 
 > ***Resource Coordinator*** 
 > 
-> Background in HR, experience in resource management
+> Background in <highlight>HR</highlight>, experience in resource management
 
 </div>
 
@@ -79,6 +79,7 @@ footer: ""
 # Our Client - Book Nook
 
 - Located in a <highlight>suburban shopping centre</highlight>
+- Sells a <highlight>general</highlight> range of books, e.g., self-help, cookbooks, fiction, etc.
 - Profits and sales have <highlight>dropped drastically</highlight> in the <highlight>last three years</highlight>
 - Facing the possibility of significant loss and <highlight>potential bankruptcy</highlight>
 - <highlight>3 full-time staff</highlight> and <highlight>5 casual staff</highlight>
@@ -138,19 +139,19 @@ _class: title
 
 > **Sophie Williams** 
 >
-> ![](https://cdn-icons-png.flaticon.com/128/12404/12404120.png) Retired High School English Teacher 70F, Bachelor's in English Literature, Master's in Education. Passionate about literature and education. 
+> ![](https://cdn-icons-png.flaticon.com/128/12404/12404120.png) Retired High School English Teacher 70F, Bachelor's in English Literature, Master's in Education. Passionate about <highlight>literature</highlight> and <highlight>education</highlight>. 
 > 
 > Married, two grand-children (12 and 15).
 
 > **James Carter** 
 > 
-> ![](https://cdn-icons-png.flaticon.com/128/145/145843.png) Software Developer 30M, Bachelor's in Computer Science. Enjoys science fiction, fantasy, technology, and gaming.
+> ![](https://cdn-icons-png.flaticon.com/128/145/145843.png) Software Developer 30M, Bachelor's in Computer Science. Enjoys <highlight>science fiction, fantasy, technology, and gaming</highlight>.
 > 
 > Single, living alone.
 
 > **Rachel Kim** 
 > 
-> ![](https://cdn-icons-png.flaticon.com/128/4128/4128373.png) Graphic Designer 38F, Bachelor’s in Fine Arts, Certificate in Graphic Design. Passionate about art, design, and literature. 
+> ![](https://cdn-icons-png.flaticon.com/128/4128/4128373.png) Graphic Designer 38F, Bachelor’s in Fine Arts, Certificate in Graphic Design. Passionate about <highlight>art, design, and literature</highlight>. 
 > 
 > Single, living with her cat.
 >
@@ -239,23 +240,23 @@ Has a small community of <highlight>loyal customers</highlight> who:
 > **Sarah Mitchell** 
 > ***Manager*** 
 > 
-> ![](https://cdn-icons-png.flaticon.com/128/11498/11498793.png) 40F, MBA. Experience in team leadership, strategic planning, and customer service.
+> ![](https://cdn-icons-png.flaticon.com/128/11498/11498793.png) 40F, MBA. Experience in <highlight>team leadership, strategic planning</highlight>, and customer service. Likes <highlight>community engagement</highlight> and local events.
 > 
-> Married, 1 teenage daughter. <br>
+> **Married**, 1 teenage daughter. <br>
 
 > **Mark Johnson** 
 > ***Inventory Manager*** 
 > 
-> ![](https://cdn-icons-png.flaticon.com/128/4140/4140037.png) 32M, Bachelor in Supply Chain Management. Skilled in logistics, stock control, and supplier negotiations. 
+> ![](https://cdn-icons-png.flaticon.com/128/4140/4140037.png) 32M, Bachelor in Supply Chain Management. Skilled in <highlight>logistics, stock control, and supplier negotiations</highlight>. 
 > 
-> Single, enjoys outdoor activities and traveling.
+> **Single**, enjoys <highlight>outdoor activities</highlight> and travelling.
 
 > **Claire Adams** 
 > ***Admin*** 
 > 
-> ![](https://cdn-icons-png.flaticon.com/128/6997/6997662.png) 30F, Diploma in Accounting. Experience in bookkeeping, payroll, and office management. 
+> ![](https://cdn-icons-png.flaticon.com/128/6997/6997662.png) 30F, Diploma in Accounting. Experience in <highlight>bookkeeping, payroll, and office management</highlight>. 
 > 
-> Engaged and planning a wedding.
+> **Engaged** and planning a wedding.
 
 </div>
 
@@ -269,7 +270,7 @@ Has a small community of <highlight>loyal customers</highlight> who:
 > ***Marketing Coordinator***
 > (1 day/week) 
 > 
-> ![](https://cdn-icons-png.flaticon.com/128/6997/6997660.png) 25F, Bachelor’s in Marketing. Experience in creating marketing campaigns and managing social media. 
+> ![](https://cdn-icons-png.flaticon.com/128/6997/6997660.png) 25F, Bachelor’s in Marketing. Experience in creating <highlight>marketing campaigns and managing social media</highlight>. 
 >
 > Lives with her partner, enjoys exploring the local area.
 
@@ -277,23 +278,23 @@ Has a small community of <highlight>loyal customers</highlight> who:
 > ***Digital Marketer***
 > (1 day/week) 
 > 
-> ![](https://cdn-icons-png.flaticon.com/128/6997/6997551.png) 27M, Bachelor’s in Digital Media. Skilled in SEO, website management, and online advertising. 
+> ![](https://cdn-icons-png.flaticon.com/128/6997/6997551.png) 27M, Bachelor’s in Digital Media. Skilled in <highlight>SEO, website management, and online advertising</highlight>. 
 >
-> Single, enjoys technology and social activities
+> Single, enjoys <highlight>technology and social activities</highlight>.
 
 > **Alex Roberts** 
 > ***Storekeeper*** 
 > (rotating shifts)
 > 
-> ![](https://cdn-icons-png.flaticon.com/128/6997/6997674.png) 22M, Bachelor’s degree in Literature (currently studying). Experienced in customer service and cash handling. 
+> ![](https://cdn-icons-png.flaticon.com/128/6997/6997674.png) 22M, Bachelor’s degree in Literature (currently studying). Experienced in <highlight>customer service and cash handling</highlight>. 
 >
-> Lives with roommates, enjoys book clubs.
+> Lives with roommates, enjoys <highlight>book clubs</highlight>.
 
 > **Maya Singh** 
 > ***Storekeeper*** 
 > (rotating shifts)
 > 
-> ![](https://cdn-icons-png.flaticon.com/128/6833/6833605.png) 29F, Certificate in Retail Management. Skilled in inventory management and customer service. 
+> ![](https://cdn-icons-png.flaticon.com/128/6833/6833605.png) 29F, Certificate in Retail Management. Skilled in <highlight>inventory management and customer service</highlight>. 
 > 
 > Married, 1 young child, enjoys family outings.
 
@@ -301,9 +302,9 @@ Has a small community of <highlight>loyal customers</highlight> who:
 > ***Storekeeper*** 
 > (rotating shifts)
 > 
-> ![](https://cdn-icons-png.flaticon.com/128/6997/6997676.png) 34M, High School Diploma. Experienced in customer service and stock management. 
+> ![](https://cdn-icons-png.flaticon.com/128/6997/6997676.png) 34M, High School Diploma. Experienced in <highlight>customer service and stock management</highlight>. 
 > 
-> Lives with partner and dog, enjoys outdoor activities.
+> Lives with partner and dog, enjoys <highlight>outdoor activities</highlight>.
 
 </div>
 
@@ -402,29 +403,29 @@ Needs:
 
 ---
 
-# Customer Profiles
+# 🥰 Customer Profiles
 
-Sees a <highlight>wider reach</highlight>
+Sees a <highlight>wider reach</highlight> across a diverse range of customers
 
 <div class='timeline'>
 
 > **Younger Audience**
 >
-> **0-6**: Children storybooks
-> **6-18**: Textbook
-> **18+**: Novels (Sci-fi), Manga, Manhwa, etc.
+> - **0-6**: Children storybooks
+> - **6-18**: Textbook, comics, etc.
+> - **18+**: Novels (Sci-fi), Manga, etc.
 
 > **References**
 >
-> **Friends**
-> **Family**
-> **Teacher**
+> - **Friends** (current)
+> - **Family**
+> - **Teacher**
 
 </div>
 
 ---
 
-# Human Resources
+# 💪 Human Resources
 
 <highlight>Retain</highlight> current team, but upskilled
 
@@ -434,19 +435,19 @@ Sees a <highlight>wider reach</highlight>
 
 > **General Manager**
 >
-> **Oversees** launch + daily operations
-> **Coordinates** online & offline operations
+> - **Oversees** launch + daily operations
+> - **Coordinates** all operations
 
 > **Inventory Manager**
 >
-> **Manages** online inventory
-> Handling **online order**
+> - **Manages** online inventory
+> - Handling **online order**
 
 > **Admin**
 >
-> Online **transactions**
-> **Payment** systems
-> **Financial** records
+> - Online **transactions**
+> - **Payment** systems
+> - **Financial** records
 
 </div>
 
@@ -454,17 +455,18 @@ Sees a <highlight>wider reach</highlight>
 
 > **Storekeeper**
 >
-> **Promote** online store
-> Provide **general supports**
+> - **Promote** online store
+> - Provide **general supports**
 
 > **Digital Marketer**
 >
-> **Operate** social media platform
-> **Create** content
+> - **Operate** social media platform
+> - **Create** content
 
 > **Marketing Coordinator**
 >
-> **Strategise** online marketing efforts
+> - **Strategise** online marketing efforts
+> - **Research** market trends
 
 </div>
 
@@ -476,22 +478,54 @@ Sees a <highlight>wider reach</highlight>
 
 # Business Model
 
-- Online store
-- Diverse range of products
+<div class='timeline'>
+
+> <highlight>Adaptable</highlight>
+>
+> Change **range of product**
+> **Events**
+> **Collaboration**
+
+> <highlight>Flexible<highlight>
+>
+> Customer **preferences**
+> Seasonal **events** and **products**
+
+> <highlight>Interactive<highlight>
+>
+> Customer **surveys**
+> **Point system**
+
+</div>
 
 ---
 
-# Online Marketing
+# 🤝 Marketing Strategies
 
-- Presence on major social media platforms
+Is a **well-known** and **trusted** local brand
 
----
+<div class='flow titled flex'>
 
-# Marketing Strategy
+> **Strong online status**
+>
+> - Modern **website**
+> - **Social media** presence (~100k followers)
+> - **Email** marketing
 
-- Email marketing
-- Community engagement
-- Partnerships
+> **Loyalty based**
+>
+> - **Loyalty program**
+> - Encourage **referrals**
+> - **Discounts** for regular customers
+> - Book **requests**
+
+> **Community building**
+>
+> - **Events** (clubs, signings)
+> - **Partnerships** (schools, authors)
+> - **Local** charities
+
+</div>
 
 ---
 
