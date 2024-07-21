@@ -132,6 +132,34 @@ _class: title
 
 ---
 
+# 🧐 Customer Profiles
+
+<div class='flow flex titled title-center img-sm' style='font-size: 24px;'>
+
+> **Sophie Williams** 
+>
+> ![](https://cdn-icons-png.flaticon.com/128/12404/12404120.png) Retired High School English Teacher 70F, Bachelor's in English Literature, Master's in Education. Passionate about literature and education. 
+> 
+> Married, two grand-children (12 and 15).
+
+> **James Carter** 
+> 
+> ![](https://cdn-icons-png.flaticon.com/128/145/145843.png) Software Developer 30M, Bachelor's in Computer Science. Enjoys science fiction, fantasy, technology, and gaming.
+> 
+> Single, living alone.
+
+> **Rachel Kim** 
+> 
+> ![](https://cdn-icons-png.flaticon.com/128/4128/4128373.png) Graphic Designer 38F, Bachelor’s in Fine Arts, Certificate in Graphic Design. Passionate about art, design, and literature. 
+> 
+> Single, living with her cat.
+>
+> Often comes with James. 
+
+</div>
+
+---
+
 # 😊 Why customers choose Book Nook 
 
 Popular amongst <highlight>older customers</highlight> who:
@@ -147,32 +175,6 @@ Has a small community of <highlight>loyal customers</highlight> who:
 - Regularly **visit the store**
 - **Recommend** the store to friends
 - **Subscribe** to the monthly catalogue
-
----
-
-# 🧐 Customer Profiles
-
-<div class='flow flex titled title-center img-sm' style='font-size: 24px;'>
-
-> **Sophie Williams** 
->
-> ![](https://cdn-icons-png.flaticon.com/128/12404/12404120.png) High School English Teacher 45F, Bachelor's in English Literature, Master's in Education. Passionate about literature and education. 
-> 
-> Married, two children (12 and 15).
-
-> **James Carter** 
-> 
-> ![](https://cdn-icons-png.flaticon.com/128/145/145843.png) Software Developer 30M, Bachelor's in Computer Science. Enjoys science fiction, fantasy, technology, and gaming.
-> 
-> Single, living alone.
-
-> **Rachel Kim** 
-> 
-> ![](https://cdn-icons-png.flaticon.com/128/4128/4128373.png) Graphic Designer 38F, Bachelor’s in Fine Arts, Certificate in Graphic Design. Passionate about art, design, and literature. 
-> 
-> Single, living with her cat.
-
-</div>
 
 ---
 
@@ -402,14 +404,73 @@ Needs:
 
 # Customer Profiles
 
-- More **diverse** customer base
-  - Inclusive of younger audiences
+Sees a <highlight>wider reach</highlight>
+
+<div class='timeline'>
+
+> **Younger Audience**
+>
+> **0-6**: Children storybooks
+> **6-18**: Textbook
+> **18+**: Novels (Sci-fi), Manga, Manhwa, etc.
+
+> **References**
+>
+> **Friends**
+> **Family**
+> **Teacher**
+
+</div>
 
 ---
 
 # Human Resources
 
-- Unchanged (current team is good)
+<highlight>Retain</highlight> current team, but upskilled
+
+<div class='flow flex no-style'>
+
+<div class='flow flex column stacked titled' style='width: 50%'>
+
+> **General Manager**
+>
+> **Oversees** launch + daily operations
+> **Coordinates** online & offline operations
+
+> **Inventory Manager**
+>
+> **Manages** online inventory
+> Handling **online order**
+
+> **Admin**
+>
+> Online **transactions**
+> **Payment** systems
+> **Financial** records
+
+</div>
+
+<div class='flow flex column stacked titled' style='width: 50%'>
+
+> **Storekeeper**
+>
+> **Promote** online store
+> Provide **general supports**
+
+> **Digital Marketer**
+>
+> **Operate** social media platform
+> **Create** content
+
+> **Marketing Coordinator**
+>
+> **Strategise** online marketing efforts
+
+</div>
+
+</div>
+
+**More responsibilities** $\to$ <highlight>increase</highlight> salaries by 15% for **all staff**.
 
 ---
 
@@ -420,7 +481,7 @@ Needs:
 
 ---
 
-# Online Presence
+# Online Marketing
 
 - Presence on major social media platforms
 
@@ -507,7 +568,7 @@ Timeline
 
 ---
 
-# 🚀 Improved Online Presence
+# 🚀 Modernised Online Presence
 
 <div class='flow flex titled'>
 
@@ -541,7 +602,38 @@ Timeline
 
 ---
 
-# 🚀 Improved Audience Range
+# 🚀 Upskilled Staff
+
+<div class='flow flex titled'>
+
+> **Mission**: *New systems training*
+>
+> Training <highlight>sessions</highlight> and <highlight>documents</highlight>
+>
+> <highlight>Customer service</highlight>
+>
+> - **Knowledge** of new products
+> - **Upselling** techniques
+>
+> <highlight>Digital sales</highlight>
+>
+> - **Online store** operations
+> - **Email marketing** techniques
+
+> **Project Execution**
+>
+> **Budget**: $5,000
+> **Timeline**: 1 months
+> **Success Criteria**: 4.5+ star reviews
+> **KPIs**: Customer feedback, ratings
+> **Risks**: Staff resistance, low engagement
+> **Mitigation**: Rewards and recognition
+
+</div>
+
+---
+
+# 🚀 Widened Audience Range
 
 <div class='flow flex titled'>
 
@@ -568,7 +660,7 @@ Timeline
 
 ---
 
-# 🚀 Improved Customer Experience
+# 🚀 Enhanced Customer Experience
 
 <div class='flow flex titled'>
 
@@ -627,9 +719,37 @@ Timeline
 
 ---
 
+# 💰 Costs
+
+<div class='flow grid flex titled'>
+
+> **Project Launch**
+>
+> &nbsp;&nbsp;Digitalisation: $\$7,500$
+> &nbsp;&nbsp;Training: $\$5,000$
+> &nbsp;&nbsp;Product Expansion: $\$10,000$
+> &nbsp;&nbsp;Community Building: $\$2,500$
+
+> **On-going Operation**
+>
+> **Unchanged**:
+> &nbsp;&nbsp;Rent: $\$36,000$
+> &nbsp;&nbsp;Utilities: $\$2,400$
+>
+> **New**:
+> &nbsp;&nbsp;Staff: $\$357,000$
+> &nbsp;&nbsp;Online (store + media): $\$1,500$
+> &nbsp;&nbsp;Product expansion: $\$24,000$
+
+</div>
+
+<highlight>Total cost</highlight>: $\$25,000$ project launch + $\$421,000$ yearly operation
+
+---
+
 # 📈 Benefit Realisation
 
-**Increased sales** by 110% in 2025
+**Increased sales** by 110% at EOFY 2025, and <highlight>keeps increasing as community grows</highlight>
 
 <div class='flow grid flex titled'>
 
@@ -648,3 +768,17 @@ Timeline
 > **10%**
 >
 > Community
+
+</div>
+
+**Updated Financials**
+
+<div class='flow flex titled'>
+
+**Revenue** $\$515,000$
+
+**Cost** $\$421,000$
+
+**Net Profit** $\$94,000$
+
+</div>
