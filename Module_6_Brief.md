@@ -486,12 +486,12 @@ Sees a <highlight>wider reach</highlight> across a diverse range of customers
 > **Events**
 > **Collaboration**
 
-> <highlight>**Flexible**<highlight>
+> <highlight>**Flexible**</highlight>
 >
 > Customer **preferences**
 > Seasonal **events** and **products**
 
-> <highlight>**Interactive**<highlight>
+> <highlight>**Interactive**</highlight>
 >
 > Customer **surveys**
 > **Point system**
@@ -576,15 +576,25 @@ Is a **well-known** and **trusted** local brand
 
 ---
 
-<!-- 
-_class: title
--->
-
-<div class='title-center'>
+<div class='title-center text-left'>
 
 # Project "Turnaround"
 
 </div>
+
+## Objectives
+
+<div class='timeline'>
+
+> Increase **sale** and **revenue**
+
+> Widen **customer base**
+
+> Enhance **operation efficiency**
+
+</div>
+
+Most importantly <highlight>avoid bankruptcy</highlight>
 
 <!-- 
 
