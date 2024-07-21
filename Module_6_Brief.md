@@ -476,22 +476,22 @@ Sees a <highlight>wider reach</highlight> across a diverse range of customers
 
 ---
 
-# Business Model
+# 📚 Business Model
 
 <div class='timeline'>
 
-> <highlight>Adaptable</highlight>
+> <highlight>**Adaptable**</highlight>
 >
 > Change **range of product**
 > **Events**
 > **Collaboration**
 
-> <highlight>Flexible<highlight>
+> <highlight>**Flexible**<highlight>
 >
 > Customer **preferences**
 > Seasonal **events** and **products**
 
-> <highlight>Interactive<highlight>
+> <highlight>**Interactive**<highlight>
 >
 > Customer **surveys**
 > **Point system**
@@ -724,6 +724,34 @@ Timeline
 
 ---
 
+# 💰 Costs
+
+<div class='flow grid flex titled'>
+
+> **Project Launch**
+>
+> &nbsp;&nbsp;Digitalisation: $\$7,500$
+> &nbsp;&nbsp;Training: $\$5,000$
+> &nbsp;&nbsp;Product Expansion: $\$10,000$
+> &nbsp;&nbsp;Community Building: $\$2,500$
+
+> **On-going Operation**
+>
+> **Unchanged**:
+> &nbsp;&nbsp;Rent: $\$36,000$
+> &nbsp;&nbsp;Utilities: $\$2,400$
+>
+> **New**:
+> &nbsp;&nbsp;Staff: $\$357,000$
+> &nbsp;&nbsp;Online (store + media): $\$1,500$
+> &nbsp;&nbsp;Product expansion: $\$24,000$
+
+</div>
+
+<highlight>Total cost</highlight>: $\$25,000$ project launch + $\$421,000$ yearly operation
+
+---
+
 # ⏳ Timeline
 
 <div class='timeline' style='font-size: smaller'>
@@ -750,34 +778,6 @@ Timeline
 > **Project Review & Evaluation**
 
 </div>
-
----
-
-# 💰 Costs
-
-<div class='flow grid flex titled'>
-
-> **Project Launch**
->
-> &nbsp;&nbsp;Digitalisation: $\$7,500$
-> &nbsp;&nbsp;Training: $\$5,000$
-> &nbsp;&nbsp;Product Expansion: $\$10,000$
-> &nbsp;&nbsp;Community Building: $\$2,500$
-
-> **On-going Operation**
->
-> **Unchanged**:
-> &nbsp;&nbsp;Rent: $\$36,000$
-> &nbsp;&nbsp;Utilities: $\$2,400$
->
-> **New**:
-> &nbsp;&nbsp;Staff: $\$357,000$
-> &nbsp;&nbsp;Online (store + media): $\$1,500$
-> &nbsp;&nbsp;Product expansion: $\$24,000$
-
-</div>
-
-<highlight>Total cost</highlight>: $\$25,000$ project launch + $\$421,000$ yearly operation
 
 ---
 
