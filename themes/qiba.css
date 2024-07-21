@@ -114,14 +114,14 @@ td:hover {
   cursor: pointer;
 }
 
-section.title .title-header {
+.title-header {
   backdrop-filter: blur(25px);
   border-radius: 2rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   padding: 1rem;
 }
 
-section.title .title-center {
+.title-center {
   margin: 0 auto 50px auto;
   border-radius: 0.5rem;
   backdrop-filter: brightness(1);
@@ -132,7 +132,7 @@ section.title .title-center {
   text-align: center;
 }
 
-section.title .title-center::before {
+.title-center::before {
   /* Gradient background */
   content: '';
   position: absolute;
