@@ -576,6 +576,10 @@ Is a **well-known** and **trusted** local brand
 
 ---
 
+<!-- 
+_class: title
+ -->
+
 <div class='title-center text-left'>
 
 # Project "Turnaround"

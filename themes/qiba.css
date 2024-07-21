@@ -121,7 +121,7 @@ td:hover {
   padding: 1rem;
 }
 
-:not(.flow) .title-center {
+section.title .title-center {
   margin: 0 auto 50px auto;
   border-radius: 0.5rem;
   backdrop-filter: brightness(1);
@@ -132,7 +132,7 @@ td:hover {
   text-align: center;
 }
 
-:not(.flow) .title-center::before {
+section.title .title-center::before {
   /* Gradient background */
   content: '';
   position: absolute;
