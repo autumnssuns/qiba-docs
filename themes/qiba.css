@@ -110,6 +110,29 @@ td:hover {
   cursor: pointer;
 }
 
+/* Banded table */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background: linear-gradient(in hsl 135deg, var(--accent-1), var(--accent-2));
+  color: white;
+  text-align: left;
+}
+
+th,
+td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: var(--accent-light-2);
+}
+
 .slide-in:hover {
   cursor: pointer;
 }
@@ -435,6 +458,20 @@ highlight {
   flex-direction: column;
   /* Stretch content */
   align-items: stretch;
+}
+
+.flow.fade-in > blockquote:hover {
+  background: linear-gradient(
+    in hsl 135deg,
+    var(--accent-light-1),
+    var(--accent-light-2)
+  );
+  color: var(--text-color);
+  transition: opacity 0.4s ease-out;
+}
+
+.flow.fade-in > blockquote {
+  color: var(--light);
 }
 
 .timeline > blockquote {
