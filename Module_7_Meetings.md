@@ -133,9 +133,9 @@ Fun facts:
 
 **Set Clear Objectives** Define the purpose of the meeting
 
-**Stick to the Agenda** Keep discussions relevant
-
 **Ensure Inclusivity** Encourage contributions from everyone
+
+**Stick to the Agenda** Keep discussions relevant
 
 **Assign Action Items** Clearly define next steps
 
