@@ -3,7 +3,7 @@ concurrency: marp-to-pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
     types:
       - opened
@@ -22,7 +22,7 @@ jobs:
 
       - name: Copy images directory (if exists)
         run: if [[ -d img ]]; then cp -R img build/img; fi
-      
+
       - name: Marp Build (README)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
@@ -55,7 +55,20 @@ jobs:
     needs: [prepare]
     strategy:
       matrix:
-        file: [ Module_1_Slides, Module_2_Bully, Module_2_Task_1_Diversity, Module_3, Module_4_SWOT, Module_4_Personal_SWOT, Module_4_Job_Application, Module_5_About_Me, Module_6_Brief, Module_6_Scenarios ]
+        file:
+          [
+            Module_1_Slides,
+            Module_2_Bully,
+            Module_2_Task_1_Diversity,
+            Module_3,
+            Module_4_SWOT,
+            Module_4_Personal_SWOT,
+            Module_7_Meetings,
+            Module_4_Job_Application,
+            Module_5_About_Me,
+            Module_6_Brief,
+            Module_6_Scenarios,
+          ]
 
     runs-on: ubuntu-latest
     permissions:

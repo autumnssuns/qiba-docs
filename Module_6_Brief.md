@@ -789,7 +789,7 @@ Timeline
 > **School Partnerships & Author Signings**
 
 > *February 2025*
-> **Project Review & Evaluation**
+> **Project Review & Staff Training**
 
 </div>
 
